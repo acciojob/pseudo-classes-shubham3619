@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 * {
-	background-color:lightblue;
+	background-color:rgb(135,206,235);
 }
 .para-1 {
 background-color:black;
@@ -8,10 +8,7 @@ color:white;
 }
 .para {
 color:red;
-
 }
-
-
 li:nth-child(2n+1){
 	background-color:white;
 }
