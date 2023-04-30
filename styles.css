@@ -2,6 +2,14 @@
 * {
 	background-color:lightblue;
 }
+.para-1 {
+background-color:black;
+color:white;
+}
+.para {
+color:red;
+
+}
 
 
 li:nth-child(2n+1){
